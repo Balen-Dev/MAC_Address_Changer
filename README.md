@@ -1,6 +1,6 @@
 # MAC Address Changer
 
-<p>Simple python script to change the MAC address of your NIC.</p>
+<p>Simple python script to change the MAC address of your NIC on Linux machines.</p>
 
 ## Usage
 
